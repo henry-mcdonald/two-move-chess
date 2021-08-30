@@ -1,0 +1,14 @@
+{
+  "name": "nodechess",
+  "version": "1.0.0",
+  "description": "homie this is real chess hours",
+  "author": "its ya boi h mac poppa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "prompt-sync": "^4.2.0"
+  }
+}

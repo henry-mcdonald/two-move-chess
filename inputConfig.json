@@ -1,0 +1,11 @@
+{
+    "players":{
+        "p2":"white",
+        "p1":"black"
+    },
+    "moveOrderLogic": "one-then-two",
+    "allowOpponentResponseIf":["check","capture"],
+    "maxMovesPerPiecePerTurn" : 1,
+    "boardSetupLogic": "classicSetup",
+    "pieces": "classicPieces"
+}
