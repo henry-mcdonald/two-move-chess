@@ -24,4 +24,4 @@ Play with post requests like:
 
 Post to */move
 
-check the colors of the playrs in the json packet at the bottom to know who is what color
+check the colors of the playrs in the json packet at the bottom to know who is what color# two-move-chess
